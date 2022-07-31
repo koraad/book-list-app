@@ -92,7 +92,7 @@ function removeItem() {
 
             clicked.parentElement.parentElement.remove();
 
-            messageDisplay('blue', 'Success: Item Deleted')
+            messageDisplay('grey', 'Success: Item Deleted')
 
         }
     })
